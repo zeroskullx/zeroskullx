@@ -5,7 +5,7 @@ Hi 👋 I'm Brazilian, and I have been working in programming since 2010. Howeve
 Currently, I specialize in developing systems with a focus on JavaScript and frameworks like Next.js. I am passionate about technology and constantly seek opportunities to learn and improve, staying up-to-date with industry innovations and trends. Let's code the future together!
 
 - 🔭 I’m currently working on ESPM
-- 🌱 I’m currently learning Python and I.A.
+- 🌱 I’m currently learning Python and A.I.
 
 <br>
 
